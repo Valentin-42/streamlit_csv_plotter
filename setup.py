@@ -22,7 +22,7 @@ setup(
     description='A Streamlit application to plot data from CSV files using Plotly.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/csv_plotter',
+    url='https://github.com/Valentin-42/streamlit_csv_plotter',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
